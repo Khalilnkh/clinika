@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 5rem;
+    background-color:grey;
+
+
+}
+nav .box1{
+    width: 15%;
+}
+nav .box1 img{
+    width: 100%;
+}
+nav .box a{
+    text-decoration: none;
+    margin-right: 60px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+}
